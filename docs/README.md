@@ -1,15 +1,14 @@
-## Supporting Documents
+# Supporting Materials
 
-This folder contains detailed reports and analyses supporting the
-**Enterprise Data Forecasting & Strategy** project.
+This folder contains supporting documents and presentation materials for the **Enterprise Data Forecasting & Strategy** project.
 
-### 📄 Reports
-- **Enterprise Forecasting & Strategic Insights Report**  
-  `Final Report Fix - Group 22 2.pdf`
+## 📄 Reports
+- Final analytical reports detailing data modeling, SQL-driven forecasting, and strategic insights.
+- Business-focused recommendations derived from enterprise data analysis.
 
-- **Statistical Modeling & Forecast Validation Report**  
-  `SubStatue Report Group 22.pdf`
+## 🎥 Project Presentation (Video)
+- ▶️ **Presentation Walkthrough (MP4):**  
+  [Watch the project presentation video](./Red%20and%20White%20Modern%20The%20Future%20of%20Cars%20Presentation.mp4)
 
-These documents provide deeper insight into the data modeling approach,
-forecasting methodology, and strategic implications discussed in the
-main project README.
+The video provides a high-level walkthrough of the problem context, analytical approach, forecasting insights, and strategic implications.
+
