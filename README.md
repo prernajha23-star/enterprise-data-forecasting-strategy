@@ -85,3 +85,14 @@ Supporting materials for this project are available in the `/docs` folder, inclu
 ## 📌 Conclusion
 
 This project demonstrates how **enterprise data forecasting**, when combined with **structured data modeling and strategic interpretation**, can significantly enhance organizational decision-making and long-term planning.
+
+## 📁 Supporting Materials
+
+Detailed reports and a presentation walkthrough for this project are available below:
+
+- 📄 **Enterprise Forecasting Reports (PDF)**  
+  [View analytical and supporting reports](docs/)
+
+- 🎥 **Project Presentation (Video)**  
+  [Watch the presentation walkthrough](docs/Red%20and%20White%20Modern%20The%20Future%20of%20Cars%20Presentation.mp4)
+
